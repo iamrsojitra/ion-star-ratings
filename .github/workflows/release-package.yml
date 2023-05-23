@@ -28,7 +28,7 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - run: npm ci
       - run: cd projects/ion-star-ratings && npm ci
-      - run: cd ../../ && npm run build
+      - run: npm run build
       - run: cd dist/ion-star-ratings
       - run: npm publish
         env:
