@@ -81,4 +81,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - [All Contributors](https://github.com/squareetlabs/ionic-rating-component)
 
 ## License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/vc-rakesh/ion-star-ratings/blob/main/LICENSE) for more information.
