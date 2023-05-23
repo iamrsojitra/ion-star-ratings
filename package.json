@@ -1,6 +1,6 @@
 {
   "name": "ion-star-ratings",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -23,6 +23,7 @@
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "^16.0.2",
     "@angular/cli": "~16.0.2",
     "@angular/compiler-cli": "^16.0.0",
     "@types/jasmine": "~4.3.0",
@@ -32,6 +33,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
+    "ng-packagr": "^16.0.0",
     "typescript": "~5.0.2"
   }
 }

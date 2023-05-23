@@ -8,6 +8,11 @@
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
+    "paths": {
+      "ion-star-ratings": [
+        "dist/ion-star-ratings"
+      ]
+    },
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
