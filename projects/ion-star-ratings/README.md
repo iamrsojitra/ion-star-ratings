@@ -67,7 +67,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - **activeColor (string)** : can specify the active color for the active rating icon (should be a valid color code, default is set to '#488aff')
 - **defaultColor (string)** : can specify the default color for the rating icon (should be a valid color code, default is set to '#f4f4f4')
 - **readonly (boolean)** : default is set to `false`, change to `true` and make it read only. End user won't be able to change the rating then.
-- **rating (string or number)** : default is set to 3. input can be of type **number** or **string** (_assign any number from 1 to 5, floating numbers are also accepted, Math.round(parseFloat(rating) is done for all inputs_).
+- **rating (string or number)** : default is set to 3. input can be of type **number** or **string**.
 - **fontSize (string)** : can specify the font-size for the icon ( should be a valid string as used in css, a number followed by letters 'px', default is set to '28px').
 - **ratingChanged (function)** : used to handle the rating change in the parent component and do your stuff
 - **formControlName** : only if you are using the ion-star-ratings component inside the `<form>` component
