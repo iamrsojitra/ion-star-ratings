@@ -39,8 +39,5 @@ jobs:
       - name: Build Generate
         run: npm run build
         
-      - name: Go to build folder
-        run: cd dist/ion-star-ratings
-      
-      - name: Publish the package
-        run: npm publish
+      - name: Go to build folder and publish
+        run: cd dist/ion-star-ratings && npm publish
