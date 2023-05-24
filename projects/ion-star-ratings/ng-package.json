@@ -3,5 +3,6 @@
   "dest": "../../dist/ion-star-ratings",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "assets": ["demo.gif"]
 }

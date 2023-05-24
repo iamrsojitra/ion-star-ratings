@@ -2,6 +2,10 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
+## Demo look
+
+![](demo.gif)
+
 # How to use
 
 ## Step 1
@@ -72,13 +76,14 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - **ratingChanged (function)** : used to handle the rating change in the parent component and do your stuff
 - **formControlName** : only if you are using the ion-star-ratings component inside the `<form>` component
 
-
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Credits
+
 - [All Contributors](https://github.com/squareetlabs/ionic-rating-component)
 
 ## License
+
 The MIT License (MIT). Please see [License File](https://github.com/vc-rakesh/ion-star-ratings/blob/main/LICENSE) for more information.
