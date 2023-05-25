@@ -2,6 +2,11 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
+## NPM
+<a href="https://www.npmjs.com/package/ion-star-ratings">
+  <img src="https://img.shields.io/npm/v/ion-star-ratings.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen" alt="Ionic Star Ratings on npm" />
+</a>
+
 ## Demo look
 
 ![](demo.gif)
