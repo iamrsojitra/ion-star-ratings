@@ -1,11 +1,21 @@
 # Ionic Star Ratings Component
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
-
 ## NPM
 <a href="https://www.npmjs.com/package/ion-star-ratings">
   <img src="https://img.shields.io/npm/v/ion-star-ratings.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen" alt="Ionic Star Ratings on npm" />
 </a>
+
+# About 
+- This npm package for ionic angular provides star ratings.
+- It allows you to give star ratings between 1 and 5 by default, but you can customize it to offer more options.
+- The package supports half-star ratings, allowing you to give ratings like 3.5 stars.
+- It offers various parameters such as activeIcon, defaultIcon, halfIcon, halfStar, maxRating, activeColor, defaultColor, readonly, rating, fontSize, ratingChanged, and formControlName. These parameters allow you to customize the appearance and behavior of the star rating component.
+
+# prerequisite
+- Angular: 16.X
+- Standalone: true
+- Ionic: 7.X
+
 
 ## Demo look
 
@@ -81,14 +91,13 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - **ratingChanged (function)** : used to handle the rating change in the parent component and do your stuff
 - **formControlName** : only if you are using the ion-star-ratings component inside the `<form>` component
 
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Credits
-
 - [All Contributors](https://github.com/squareetlabs/ionic-rating-component)
 
 ## License
-
 The MIT License (MIT). Please see [License File](https://github.com/vc-rakesh/ion-star-ratings/blob/main/LICENSE) for more information.
