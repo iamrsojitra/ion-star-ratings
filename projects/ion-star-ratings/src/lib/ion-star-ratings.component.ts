@@ -46,7 +46,7 @@ export class IonStarRatingsComponent implements ControlValueAccessor, OnInit {
   disabled!: boolean;
 
   ngOnInit(): void {
-    this.rating = this.rating || 3; //default after input`s initialization
+    this.rating = this.rating || 0; //default after input`s initialization
     for (var i = 0; i < this.maxRating; i++) {
       this.iconsArray.push(i);
     }
